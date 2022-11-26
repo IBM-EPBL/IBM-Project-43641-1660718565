@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "347305316287",
+    "project_id": "czalertapp",
+    "storage_bucket": "czalertapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347305316287:android:0076327782acdeda521b0a",
+        "android_client_info": {
+          "package_name": "com.example.czalertapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347305316287-g46oc8j56vtiom457el37cr9nj736iq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAQY6cLIqEBcJ4Q9Fm-j3i-NqUST7jnpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347305316287-g46oc8j56vtiom457el37cr9nj736iq4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
